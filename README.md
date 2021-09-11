@@ -1,6 +1,2 @@
 # hello-word
-just test git push
-
-
-
-test web
+This is my first repo in the github.
